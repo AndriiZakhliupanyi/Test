@@ -11,6 +11,5 @@ https://video.dev.infinite.international/607019d3110b552b53d85ae6/master480p.m3u
 https://video.dev.infinite.international/607019d3110b552b53d85ae6/master360p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=576484,AVERAGE-BANDWIDTH=538301,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=296x166,FRAME-RATE=25.000,AUDIO="program_audio"
 https://video.dev.infinite.international/607019d3110b552b53d85ae6/master166p.m3u8
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=42935,AVERAGE-BANDWIDTH=23150,CODECS="avc1.4d400c",RESOLUTION=296x166,URI="https://video.dev.infinite.international/607019d3110b552b53d85ae6/master166p_I-Frame.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="program_audio",LANGUAGE="eng",NAME="Alternate Audio",AUTOSELECT=YES,DEFAULT=YES,URI="https://video.dev.infinite.international/607019d3110b552b53d85ae6/masteraudio.m3u8"
 
