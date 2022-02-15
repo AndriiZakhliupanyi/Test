@@ -1,1 +1,4 @@
-{"Message":"Object not found."}
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-STREAM-INF:BANDWIDTH=2780800,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://stream-infinite.jmind.systems/live/003/0/master.m3u8
